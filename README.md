@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JS-Ryan
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning in high school
-- 💞️ I’m looking to collaborate on innovative intelligent ward design
-- 📫 How to reach me Sun.ruining@outlook.com is my email address
+- 👋 Name: @JS-Ryan
+- 👀 Game developer, modder
+- 🌱 I'm old
+- 💞️ ask for cooperation-> Use the email address below to reach me
+- 📫 Sun.ruining@outlook.com
 
 <!---
 JS-Ryan/JS-Ryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
